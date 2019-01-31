@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IngressoREST</name>
+    </assembly>
+    <members>
+        <member name="M:IngressoREST.Controllers.VestibularesController.Get">
+            <summary>
+            Recupera os vestibulares ativos
+            </summary>
+            <response code="200">Retorna a lista de vestibulares ativos</response>
+        </member>
+        <member name="M:IngressoREST.Controllers.VestibularesController.Get(System.Int32)">
+            <summary>
+            Recupera os dados de um Vestibular especifico
+            </summary>
+            <param name="id">Id do vestibular</param>
+            <returns>Retorna os dados do Vestibular</returns>
+            <response code="200">Retorna o vestibular</response>
+            <response code="404">Se não encontrar o vestibular</response>
+        </member>
+        <member name="M:IngressoREST.Controllers.VestibularesController.GetCandidatos(System.Int32)">
+            <summary>
+            Recupera os candidatos inscritos no vestibular
+            </summary>
+            <response code="200">Retorna dos candidatos inscritos no vestibular</response>
+            <response code="404">Se não encontrar o vestibular</response>
+        </member>
+        <member name="M:IngressoREST.Controllers.VestibularesController.Post(IngressoREST.Models.NovoVestibularModel)">
+             <summary>
+             Cria um vestibular
+             </summary>
+             <remarks>
+             Exemplo request:
+            
+                 POST /Vestibulares
+                 {
+                   "descricao": "Vestibular Geral UNIC 01/02",
+                   "dataInicioInscricao": "2019-01-10",
+                   "dataTerminoInscricao": "2019-01-31",
+                   "dataProva": "2019-02-01"
+                 }
+            
+             </remarks>
+             <param name="novoVestibular">Dados do vestibular</param>
+             <returns>O vestibular criado</returns>
+             <response code="201">Retorna o novo vestibular criado</response>
+             <response code="400">Se os dados estiver inválido</response>
+        </member>
+        <member name="M:IngressoREST.Controllers.VestibularesController.Put(System.Int32,IngressoREST.Models.NovoVestibularModel)">
+            <summary>
+            Altera os dados de um vestibular
+            </summary>
+            <param name="id">Id do vestibular que deseja alterar os dados</param>
+            <param name="novoVestibular">Novos dados do vestibular</param>
+            <returns>Retorna o novo vestibular alterado</returns>
+            <response code="200">Retorna o vestibular alterado</response>
+            <response code="400">Se o dados estiver inválido</response>
+            <response code="404">Se não encontrar o vestibular</response>
+        </member>
+        <member name="M:IngressoREST.Controllers.VestibularesController.Delete(System.Int32)">
+            <summary>
+            Exclui um vestibular especifico
+            </summary>
+            <param name="id">Id do vestibular para ser excluído</param>
+            <returns></returns>
+            <response code="404">Se não encontrar o vestibular</response>
+        </member>
+    </members>
+</doc>

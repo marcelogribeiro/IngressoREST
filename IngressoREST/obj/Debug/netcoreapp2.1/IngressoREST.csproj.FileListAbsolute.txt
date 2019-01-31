@@ -1,0 +1,16 @@
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\bin\Debug\netcoreapp2.1\IngressoREST.deps.json
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\bin\Debug\netcoreapp2.1\IngressoREST.runtimeconfig.json
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\bin\Debug\netcoreapp2.1\IngressoREST.runtimeconfig.dev.json
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\bin\Debug\netcoreapp2.1\IngressoREST.dll
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.csprojAssemblyReference.cache
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.RazorAssemblyInfo.cache
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.RazorAssemblyInfo.cs
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.AssemblyInfoInputs.cache
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.AssemblyInfo.cs
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.RazorTargetAssemblyInfo.cache
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\bin\Debug\netcoreapp2.1\IngressoREST.pdb
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.dll
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.pdb
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\bin\Debug\netcoreapp2.1\IngressoREST.xml
+C:\Users\marcelo.ribeiro\source\repos\IngressoREST\IngressoREST\obj\Debug\netcoreapp2.1\IngressoREST.xml
